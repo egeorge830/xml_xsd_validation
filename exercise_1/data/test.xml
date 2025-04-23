@@ -31,9 +31,11 @@
           <name>Dave George</name>
           <email>dave@example.com</email>
           <orders>
-              <order>1004</order>
-          <product>Cheese</product>
-          <quantity>5</quantity>
+              <order>
+                 <orderID>1004</orderID>
+                  <product>Cheese</product>
+                  <quantity>5</quantity>
+              </order>
           </orders>
       </customer>
   </customers>
