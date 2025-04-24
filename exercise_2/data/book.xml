@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="book.xsd">
+    <title>XML in Practice</title>
+    <author>Jane Doe</author>
+    <year>2023</year>
+</book>

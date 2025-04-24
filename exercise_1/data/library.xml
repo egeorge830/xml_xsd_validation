@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE library SYSTEM "library.dtd">
+<library>
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <year>1949</year>
+    </book>
+    <book>
+        <title>Good Omens</title>
+        <author>Neil Gaiman</author>
+        <author>Terry Pratchett</author>
+    </book>
+</library>

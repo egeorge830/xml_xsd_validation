@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE record SYSTEM "healthcare.dtd">
+<record>
+    <patient>
+        <name>John Peter</name>
+        <age>48</age>
+    </patient>
+    <observation>
+        <type>Blood Pressure</type>
+        <value>120/80</value>
+    </observation>
+</record>

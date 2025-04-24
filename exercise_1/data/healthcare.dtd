@@ -1,0 +1,7 @@
+<!ELEMENT record (patient, observation+)>
+<!ELEMENT patient (name, age)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT observation (type, value)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT value (#PCDATA)>
